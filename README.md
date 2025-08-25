@@ -32,16 +32,16 @@ The idea behind this project was to learn how sensors interact with microcontrol
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/Lexmiii/Arduino-home-automation-system/blob/main/circuit%20diagram.jpeg?raw=true)
 
-### Hardware Build
-![Hardware Setup](project.jpg)
+### Serial monitor
+![Hardware Setup](https://github.com/Lexmiii/Arduino-home-automation-system/blob/main/Serial%20monitor.jpeg?raw=true)
 
 ### Demo
-![Demo](demo.gif)
+![Demo](https://github.com/Lexmiii/Arduino-home-automation-system/blob/main/LEKSHMI%20PRASAD's%20Video%20-%20Aug%2025,%202025-VEED.gif?raw=true)
 
 ---
 
 ## Code
-The full Arduino sketch is available here: [home_automation.ino](home_automation.ino)  
+The full Arduino sketch is available here: [home_automation.ino](https://github.com/Lexmiii/Arduino-home-automation-system/blob/fb2501bb56c7457c22ec90e3e503b7a30d9fea9d/SMART_HOME_AUTOMATION.ino)  
 
 ### Bluetooth Commands
 | Command | Action |
@@ -71,7 +71,7 @@ The full Arduino sketch is available here: [home_automation.ino](home_automation
 ---
 
 ## Author
-Created by **[Your Name]** as a learning project in Arduino, sensors, and basic IoT concepts.  
+Created by Lekshmi Prasad as a learning project in Arduino, sensors, and basic IoT concepts.  
 
 ---
 
